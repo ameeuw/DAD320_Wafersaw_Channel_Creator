@@ -1,0 +1,30 @@
+000       SAMPLE DATA                        
+001       DUESE KANAL 1X RICHT               
+002       PZT SCHNITT 1X LINIE               
+003       1CHIP PZT CUT RICHTI               
+004       PZT MASSE 1X 230                   
+005       DUESE LAENGE 1LINIE                
+006       VEREINZELN 1LINIE                  
+101       PZT TIEFENPRUEFUNG                 
+102       PZT STRUKT ZUNGEN4X                
+103       PZT STRUKT MASSE4X                 
+106       PZT STRUKT ZUNGEN2X                
+107       PZT STRUKT MASSE 2X                
+140       DUESE KANAELE 3X3                  
+141       DUESE KANAELE 1X3                  
+142       DUESE 50ER BL 12VERS               
+150       VEREINZELN 1LINIE                  
+160       TIEFENTEST                         
+170       CCHIP PZT CUT 2000YM               
+171       CCHIP PZT CUT 1800YM               
+172       CCHIP PZT CUT 1600YM               
+173       CCHIP PZT CUT 1200YM               
+174       CCHIP PZT CUT 800YM                
+175       DUESE 50MICROMETER                 
+176       DUESE 70MICROMETER                 
+177       DUESE 100MICROMETER                
+178       DUESE 150MICROMETER                
+180       DUESEN 3X 50                       
+181       DUESEN 3X 70                       
+182       DUESEN 3X100                       
+184       VEREINZELN 1LINIE                  

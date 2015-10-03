@@ -1,0 +1,31 @@
+ant:
+<ant>
+  <mkdir dir="\\psf\Dropbox\Studium\Hiwi\Wafersaw_GUI\wingui\DAC_Creator\for_redistribution" />
+  <mkdir dir="\\psf\Dropbox\Studium\Hiwi\Wafersaw_GUI\wingui\DAC_Creator\for_testing" />
+</ant>
+mcc -C -o DAC_Creator -W main:DAC_Creator -T link:exe -d \\psf\Dropbox\Studium\Hiwi\Wafersaw_GUI\wingui\DAC_Creator\for_testing -v \\psf\Dropbox\Studium\Hiwi\Wafersaw_GUI\wingui\dac_creator.m -a \\psf\Dropbox\Studium\Hiwi\Wafersaw_GUI\wingui\DAC\DEV.LST -a \\psf\Dropbox\Studium\Hiwi\Wafersaw_GUI\wingui\DAC\ID.LST -a \\psf\Dropbox\Studium\Hiwi\Wafersaw_GUI\wingui\Logos.png 
+Compiler version: 5.1 (R2014a)
+Dependency analysis by REQUIREMENTS.
+[Warning: Adding path "\\psf\Dropbox\Studium\Hiwi\Wafersaw_GUI\wingui" to
+Compiler path instance.] 
+Parsing file "\\psf\Dropbox\Studium\Hiwi\Wafersaw_GUI\wingui\dac_creator.m"
+	(Referenced from: "Compiler Command Line").
+Parsing file "C:\Program Files\MATLAB\R2014a\toolbox\compiler\deploy\deployprint.m"
+	(Referenced from: "Compiler Command Line").
+Parsing file "C:\Program Files\MATLAB\R2014a\toolbox\compiler\deploy\printdlg.m"
+	(Referenced from: "Compiler Command Line").
+Deleting 6 temporary MEX authorization files.
+Removing: 'C:\Users\Arne\AppData\Local\Temp\mathworks_tmp_2856_31072_2856.auth'.
+Removing: 'C:\Users\Arne\AppData\Local\Temp\mathworks_tmp_2856_8648_2856.auth'.
+Removing: 'C:\Users\Arne\AppData\Local\Temp\mathworks_tmp_2856_8181_2856.auth'.
+Removing: 'C:\Users\Arne\AppData\Local\Temp\mathworks_tmp_2856_26993_2856.auth'.
+Removing: 'C:\Users\Arne\AppData\Local\Temp\mathworks_tmp_2856_616_2856.auth'.
+Removing: 'C:\Users\Arne\AppData\Local\Temp\mathworks_tmp_2856_21234_2856.auth'.
+Generating file "\\psf\Dropbox\Studium\Hiwi\Wafersaw_GUI\wingui\DAC_Creator\for_testing\readme.txt".
+Packaging...
+Adding custom icon C:\Program Files\MATLAB\R2014a\toolbox\compiler\Resources\default_icon.ico to \\psf\Dropbox\Studium\Hiwi\Wafersaw_GUI\wingui\DAC_Creator\for_testing\DAC_Creator.exe.
+Attempting to embed the CTF archive into the application \\psf\Dropbox\Studium\Hiwi\Wafersaw_GUI\wingui\DAC_Creator\for_testing\DAC_Creator.exe.
+Finished embedding CTF archive. Deleting the external CTF archive.
+Creating the bundle...
+Web based installer created at \\psf\Dropbox\Studium\Hiwi\Wafersaw_GUI\wingui\DAC_Creator\for_redistribution\DAC_Creator_WEB.exe.
+Packaging complete.
