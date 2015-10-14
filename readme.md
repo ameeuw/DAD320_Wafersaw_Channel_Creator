@@ -4,7 +4,7 @@ This software accompanies the works of my term paper, written in 2014 entitled: 
 The semester thesis is written in German language and can be found in the root of this repository (https://github.com/ameeuw/DAD320_Wafersaw_Channel_Creator/2014_05_ST_Arne_Meeuw.pdf). 
 The following German description is for the software only:
 
-![Cutting Tool Screenshot](https://github.com/ameeuw/DAD320_Wafersaw_Channel_Creator/screenshot.png)
+![Cutting Tool Screenshot](https://github.com/ameeuw/DAD320_Wafersaw_Channel_Creator/screenshot.PNG)
 
 **Bearbeitetes Konzept:**
 
