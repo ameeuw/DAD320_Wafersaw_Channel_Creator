@@ -1,10 +1,10 @@
 **DAD wafersaw sequence creation tool**
 
 This software accompanies the works of my term paper, written in 2014 entitled: "Determination of the Influence of Nozzle Dimension as well as Electrical Control of a Microdroplet Generator on the Droplet Formation Process". The context of the thesis is a piezo-electrically driven micro-droplet generator.
-The semester thesis is written in German language and can be found in the root of this repository (https://github.com/ameeuw/DAD320_Wafersaw_Channel_Creator/2014_05_ST_Arne_Meeuw.pdf). 
+The semester thesis is written in German language and can be found in the root of this repository [DOWNLOAD](https://github.com/ameeuw/DAD320_Wafersaw_Channel_Creator/raw/master/2014_05_ST_Arne_Meeuw.pdf). 
 The following German description is for the software only:
 
-![Cutting Tool Screenshot](https://github.com/ameeuw/DAD320_Wafersaw_Channel_Creator/screenshot.PNG)
+![Cutting Tool Screenshot](https://github.com/ameeuw/DAD320_Wafersaw_Channel_Creator/blob/master/screenshot.PNG?raw=true)
 
 **Bearbeitetes Konzept:**
 
